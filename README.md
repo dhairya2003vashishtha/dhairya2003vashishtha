@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20there,%20I'm%20Dhairya!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
@@ -21,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,git,github,vscode,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,nodejs,react,html,css,git,github,vscode,docker&theme=dark" />
   </a>
 </p>
 
@@ -53,6 +52,8 @@
 | **[Code-Dove](https://github.com/dhairya2003vashishtha/Code-Dove)** | 🚀 A modern, high-performance web application built with robust architecture. | `TypeScript` |
 | **[SnapNodes](https://github.com/dhairya2003vashishtha/SnapNodes)** | ✨ Visual node-based workflow editor designed for seamless interactive applications. | `TypeScript` |
 | **[AudioLip](https://github.com/dhairya2003vashishtha/AudioLip)** | 🎵 Advanced audio processing and synchronization tool for smooth media workflows. | `TypeScript` |
+| **[HandSignLang](https://github.com/dhairya2003vashishtha/HandSignLang)** | 🖐️ Real-time interactive Sign Language Detector using computer vision. | `Python` |
+| **[Java-Project](https://github.com/dhairya2003vashishtha/Java-Project)** | ☕ Robust Java application with clean architecture. | `Java` |
 | **[Coder-Agent](https://github.com/dhairya2003vashishtha/Coder-Agent)** | 🤖 An intelligent automated coding assistant agent. | `TypeScript` |
 | **[Ecommerce](https://github.com/dhairya2003vashishtha/Ecommerce)** | 🛒 Fully-featured modern e-commerce platform and storefront. | `TypeScript` |
 | **[MyGame](https://github.com/dhairya2003vashishtha/MyGame)** | 🎮 Interactive browser-based game with custom mechanics and logic. | `JavaScript` |
@@ -60,6 +61,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
 </div>
-
-
-
